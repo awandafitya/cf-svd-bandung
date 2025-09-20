@@ -1,4 +1,5 @@
 streamlit
 pandas
 numpy
-scikit-surprise
+scikit-learn
+surprise @ git+https://github.com/NicolasHug/Surprise.git
